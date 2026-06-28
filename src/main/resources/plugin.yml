@@ -1,0 +1,7 @@
+name: MuteBridge
+version: '${project.version}'
+main: com.example.mutebridge.MuteBridgePlugin
+api-version: '1.21'
+description: Syncs EssentialsX mutes to SimpleVoiceChat
+author: Example
+softdepend: [Essentials, voicechat]
